@@ -11,5 +11,5 @@
     
 - 🏆 Выдать список самых популярных постов (по количеству реакций) в заданной тематике (определяется по ключевым словам) за месяц.
 
+<iframe width="560" height="315" src='https://dbdiagram.io/embed/abchttps://dbdiagram.io/d/6a16825cdfb20dafcd004cf6'> </iframe>
 
-<iframe width="560" height="315" src='https://dbdiagram.io/e/6a16825cdfb20dafcd004cf6/6a16850bdfb20dafcd006827'> </iframe>
